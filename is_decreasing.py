@@ -1,7 +1,7 @@
 # Author: Sam Baird
 # GitHub username: OSU-S13BAIRD
 # Date: 02/11/2026
-# Class: INTRO TO COMPUTER SCIENCE II (CS_162_400_F2025)
+# Class: INTRO TO COMPUTER SCIENCE II (CS_162_400_W2026)
 # Description: Contains a recursive function is_decreasing that takes a list of
 #              numbers and returns True if the list is strictly decreasing
 #              (each element less than the preceding one), False otherwise.
