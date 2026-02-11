@@ -1,7 +1,7 @@
 # Author: Sam Baird
 # GitHub username: OSU-S13BAIRD
 # Date: 02/11/2026
-# Class: INTRO TO COMPUTER SCIENCE II (CS_162_400_F2025)
+# Class: INTRO TO COMPUTER SCIENCE II (CS_162_400_W2026)
 # Description: Contains a recursive function is_subsequence that checks if the
 #              first string is a subsequence of the second string (characters
 #              appear in the same relative order, not necessarily consecutive).
