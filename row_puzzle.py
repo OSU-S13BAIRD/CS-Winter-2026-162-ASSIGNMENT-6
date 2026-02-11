@@ -1,7 +1,7 @@
 # Author: Sam Baird
 # GitHub username: OSU-S13BAIRD
 # Date: 02/11/2026
-# Class: INTRO TO COMPUTER SCIENCE II (CS_162_400_F2025)
+# Class: INTRO TO COMPUTER SCIENCE II (CS_162_400_W2026)
 # Description: Contains a recursive function row_puzzle that takes a list of
 #              nonnegative integers and returns True if a token starting at the
 #              leftmost square can reach the rightmost square by moving exactly
